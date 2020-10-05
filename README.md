@@ -37,9 +37,9 @@ The code runs on any jupyter notebook.
 
 ## ✍️ Observable Trends <a name = "trends"></a>
 From a data of 576 Players in the Heroes Of Pymoli game these were the trends observeved -
-- Percentage of male players are high at 84% subsequently Total Purchase Value were from Male players.
+- Percentage of male players are high at 84% subsequently Total Purchase Value were mainly from Male players.
 - Age Demographics trend shows more than 40% of players are between age groups 20-24.
 - Most Popular item based on the Purchase is 'Final Critic' followed by 'Oathbreaker, Last Hope of the Breaking Storm'
-
+What can be clearly seen in this Heroes Of PyMoly Fantansy game is the dominance of Male players of age between 20-24.
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - UWA Data Science
