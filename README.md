@@ -32,7 +32,7 @@ Analyzing the data for the most recent fantasy game Heroes of Pymoli.Like many o
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-The code runs on any jupyter notebook.
+The code is written using jupyter notebook.
 
 
 ## ✍️ Observable Trends <a name = "trends"></a>
